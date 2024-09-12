@@ -15,13 +15,4 @@
 <p dir="auto"><code>npm run serve</code></p>
 <p dir="auto"><code>npm run dev</code></p>
 
-<img src="https://raw.githubusercontent.com/abeecool/mevn_full_stack_app/5b4c659c51830190c7fb4560ff87f2f6aabe9233/mevn_home.png" alt="abee mevn home">
-
-<img src="https://raw.githubusercontent.com/abeecool/mevn_full_stack_app/5b4c659c51830190c7fb4560ff87f2f6aabe9233/mevn_add_post.png" alt="abee mevn add post">
-
-<img src="https://raw.githubusercontent.com/abeecool/mevn_full_stack_app/5b4c659c51830190c7fb4560ff87f2f6aabe9233/mevn_post_6687dec187c03e2988951ef0.png" alt="abee mevn post deal">
-
-<img src="https://raw.githubusercontent.com/abeecool/mevn_full_stack_app/5b4c659c51830190c7fb4560ff87f2f6aabe9233/mevn_edit_post_6687dec187c03e2988951ef0.png" alt="abee mevn edit">
-
-<img src="https://raw.githubusercontent.com/abeecool/mevn_full_stack_app/5b4c659c51830190c7fb4560ff87f2f6aabe9233/mevn_delete.png" alt="abee mevn delete">
 
